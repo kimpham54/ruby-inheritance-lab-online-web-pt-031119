@@ -9,7 +9,7 @@ class Student < User
     @knowledge << string
   end
 
-  def knowledge(string)
+  def knowledge()
     @knowledge
   end
 
