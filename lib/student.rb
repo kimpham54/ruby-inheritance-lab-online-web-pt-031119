@@ -12,5 +12,5 @@ class Student < User
   def knowledge(string)
     @knowledge
   end
-  
+
 end
